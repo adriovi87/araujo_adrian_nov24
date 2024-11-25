@@ -1,3 +1,4 @@
 #ignorando archivos
 *.xsd
-top_secret/
+top_secret
+*.pdf
